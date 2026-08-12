@@ -4,9 +4,9 @@
 | S. No. | University ID | Name |
 |---|---|---|
 | 1 | 2420030024 | Somu Vaishnavi |
-| 2 | 2420030338 | T. Dhanya Sri |
-| 3 | 2420030405 | M. Srihitha |
-| 4 | 2420030700 | Bhagyalaxmi |
+| 2 | 2420030338 | Theegala Dhanya Sri |
+| 3 | 2420030405 | Maineni Srihitha |
+| 4 | 2420030700 | Bhagyalaxmi Murude |
 ## Supervisor
 
 **Ms. G Lavanya**
