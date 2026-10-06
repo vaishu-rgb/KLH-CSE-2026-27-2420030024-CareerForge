@@ -1,0 +1,23 @@
+# Environment variables and secrets
+.env
+
+# Node.js
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Java / Maven
+backend/backend/target/
+*.class
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
